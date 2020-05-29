@@ -1,5 +1,6 @@
 backend:
   name: github
+  repo: bom6/trendoftheday2
   branch: master # Branch to update (optional; defaults to master)
 # This line should *not* be indented
 media_folder: "uploads" # Media files will be stored in the repo under images/uploads
