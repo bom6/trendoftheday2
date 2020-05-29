@@ -1,15 +1,10 @@
 ---
 layout: post
-title: My Example Post
-subtitle: ' '
-author: Admin
+title: EURGBP at Critical Support - Technical Analysis - 2/17/2020
+subtitle: " MARKET SENTIMENT  -  SELL   /  PROJECTED
+  HIGH  -  0.83299  /  PROJECTED LOW  -  0.82844  /  PIVOT POINT  -  0.83136"
+author: ""
 ---
+![](/uploads/eurgbp_fx23sep19_to_25feb20-sunday.png)
 
-Eos eu docendi tractatos sapientem, **{{site.data.business.phone_primay}}** brute option menandri in vix, quando vivendo accommodare te ius. Nec melius fastidii constituam id, viderer theophrastus ad sit, hinc semper periculis cum id. Noluisse postulant assentior est in, no choro sadipscing repudiandae vix. Vis in euismod delenit dignissim. Ex quod nostrum sit, suas decore animal id ius, nobis solet detracto quo te.
-
-{% comment %}
-Might you have an include in your theme? Why not try it here!
-{% include my-themes-great-include.html %}
-{% endcomment %}
-
-No laudem altera adolescens has, volumus lucilius eum no. Eam ei **{{site.data.business.phone_primay}}** nulla audiam efficiantur. Suas affert per no, ei tale nibh sea. Sea ne magna harum, in denique scriptorem sea, cetero alienum tibique ei eos. Labores persequeris referrentur eos ei.
+**EURGBP is currently testing Support at 0.830 for the second time since December 13th, 2019. This is a critical juncture as EURGBP has never been below this level 0.830 since June 2019. From a technical point of view, this bear trend has been classic to say the least as it started when EURGBP failed test on long term Resistance 0.930 on August 12th, 2019 and bottomed at 0.830 on December 13th, 2019. A Pullback ensued and failed test at 38.2% Fibonacci 0.8680 Resistance on December 25th, 2019 where it peaked at 0.87522 and EURGBP pair went into Consolidation Pattern since then until now. Based on this scenario, it is hard to argue against the Bears at this moment as the market looks likely to violate this Critical Support level with the Momentum is well in the negative territory adding to this narrative.**

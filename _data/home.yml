@@ -1,20 +1,24 @@
-title: Jekyll with Netlify CMS
-subtitle: Static speed, with dynamic content
-intro-title: Editable Static Sites
+title: TREND OF THE DAY
+subtitle: Forex Market Trends & Analysis
+intro-title: This week’s featured pairs and economic data releases
 intro-subtitle: Update via a web UI
-intro-body: >-
-  Static sites are fast to get up and running and develop on. They are also **performance
-  beasts** but their biggest downside is non technical users editing content. Adding the
-  Netlify CMS to your Jekyll site means clients can update this site via a Web UI. It is
-  no wordpress or Drupal replacement, but gets the job done.
+intro-body: We kick off the week with featuring technical analysis reports on
+  the EURGBP and GBPCHF pairs as they both attempt their respective support and
+  resistance levels. As for the Economic Data release, we start the week with
+  JPY GDP which is forecasted to be in the negative territory versus the third
+  Quarter 1.8% and check out the Economic Data Calendar for the rest of the week
+  releases….
 intro-img: /uploads/8649856355_627bcdeadf_h.jpg
 feature-title: This is Editable!
-feature-subtitle: Even a complex layout like this is editable with the Netlify CMS, you won't be having client adjust the layout like [Gutenberg](https://wordpress.org/plugins/gutenberg/), but they can still keep things up to date!
+feature-subtitle: Even a complex layout like this is editable with the Netlify
+  CMS, you won't be having client adjust the layout like
+  [Gutenberg](https://wordpress.org/plugins/gutenberg/), but they can still keep
+  things up to date!
 testimonial-title: We are the Best
 testimonial-subtitle: Even these complex icon graphics below can be updated
-hotels: '15'
-resturants: '25'
-museums: '100'
-minutes: '12'
+hotels: "15"
+resturants: "25"
+museums: "100"
+minutes: "12"
 services-title: Service Offered
 services-subtitle: There is a service.yml that Netlify CMS can edit to change the below
